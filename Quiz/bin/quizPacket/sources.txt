@@ -1,0 +1,5 @@
+C:\Users\JoelS\OneDrive\Studium\Skripte\2. Semester\AOP Java\Pruefung\Quiz\src\quizPacket\Quiz.java
+C:\Users\JoelS\OneDrive\Studium\Skripte\2. Semester\AOP Java\Pruefung\Quiz\src\quizPacket\QuizBearbeiten.java
+C:\Users\JoelS\OneDrive\Studium\Skripte\2. Semester\AOP Java\Pruefung\Quiz\src\quizPacket\QuizDaten.java
+C:\Users\JoelS\OneDrive\Studium\Skripte\2. Semester\AOP Java\Pruefung\Quiz\src\quizPacket\QuizGUI.java
+C:\Users\JoelS\OneDrive\Studium\Skripte\2. Semester\AOP Java\Pruefung\Quiz\src\quizPacket\QuizSpielen.java

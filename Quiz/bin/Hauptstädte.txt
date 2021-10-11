@@ -1,0 +1,28 @@
+Was ist die Hauptstadt von Deutschland?
+Berlin
+München
+Hamburg
+Köln
+1
+
+Was ist die Hauptstadt von Österreich?
+Graz
+Innsbruck
+Linz
+Wien
+4
+
+Was ist die Hauptstadt von Brasilien?
+Rio de Janeiro
+Brasilia
+Salvador
+Manaus
+2
+
+Was ist die Hauptstadt von Italien?
+Venedig
+Florenz
+Rom
+Mailand
+3
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;auswahl&apos; in &apos;quizPacket.QuizSpielen.quizMenu(...)&apos; to &apos;optionen&apos;&#x0D;&#x0A;- Original project: &apos;Quiz&apos;&#x0D;&#x0A;- Original element: &apos;quizPacket.QuizSpielen.quizMenu(String[]).auswahl&apos;&#x0D;&#x0A;- Renamed element: &apos;auswahl&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;auswahl&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;quizPacket{QuizSpielen.java[QuizSpielen~quizMenu~\[QString;@auswahl!7752!7777!7761!7767!\[QString;!0!false" name="optionen" references="true" stamp="1598866519920" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\JoelS\OneDrive\Studium\Skripte\2. Semester\AOP Java\Pruefung\.metadata\.plugins\org.eclipse.jdt.core
+514154343.index
+113558702.index
+1988855223.index
